@@ -1,0 +1,23 @@
+{
+  "skill_name": "product-detail-copywriter",
+  "evals": [
+    {
+      "id": 1,
+      "eval_name": "手机详情页-旗舰机",
+      "prompt": "我要做个详情页，产品是小米14 Ultra，售价6499元起，主打影像旗舰",
+      "expected_output": "完整的详情页文案，包含主副标题、6个左右卖点模块、配置总览、竞品对比、目标人群分析，苹果风格，Markdown格式"
+    },
+    {
+      "id": 2,
+      "eval_name": "耳机详情页-TWS",
+      "prompt": "帮我写个爆款详情文案，产品是AirPods Pro 2，售价1899元",
+      "expected_output": "耳机品类的详情页文案，突出降噪、音质、续航等卖点，有配图建议，苹果风格"
+    },
+    {
+      "id": 3,
+      "eval_name": "笔记本详情页-轻薄本",
+      "prompt": "需要一个产品详情页，MacBook Air M3，8999元起，面向职场人士",
+      "expected_output": "笔记本详情页文案，突出轻薄、性能、续航，有竞品对比（Windows轻薄本）"
+    }
+  ]
+}
